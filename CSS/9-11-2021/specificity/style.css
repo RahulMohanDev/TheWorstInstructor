@@ -1,0 +1,25 @@
+* {
+  background-color: aqua;
+}
+
+/* delhi 12314.34241 4144.2421 */
+
+#black {
+  color: black;
+}
+.pink {
+  color: pink;
+}
+
+nav main h2 {
+  color: green;
+}
+
+main h2 {
+  color: blue;
+}
+
+/* applied on h2  */
+h2 {
+  color: orange;
+}

@@ -1,0 +1,42 @@
+/* * {
+  color: green;
+} */
+
+/* h1 {
+  color: blue;
+} */
+
+/* h1,
+h2 {
+  color: green;
+} */
+
+/* id rahul */
+#rahul {
+  color: red;
+}
+/* class class10 */
+.class10 {
+  color: green;
+}
+
+h2 + button {
+  color: blueviolet;
+  background-color: blue;
+}
+
+footer > a {
+  color: green;
+}
+
+footer a {
+  text-decoration: none;
+}
+
+input[type="text"] {
+  color: red;
+}
+
+input[type="password"] {
+  color: green;
+}
